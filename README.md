@@ -1,1 +1,3 @@
-# Projekt-04-kontakty
+# Projekt 04 
+
+Vytvořte stránku dle vzoru. Stránka musí být responzivní.
